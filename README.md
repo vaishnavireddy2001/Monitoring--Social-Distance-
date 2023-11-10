@@ -11,7 +11,7 @@
 
 # Methodology ⭐️
 
-![Methodology](https://github.com/update-ankur/Monitoring-Social-Distancing/blob/main/extras/Methodology.png)
+![Methodology](https://github.com/vaishnavireddy2001/Monitoring--Social-Distance-/blob/main/Methodology.png)
 
 
 
@@ -33,13 +33,13 @@
 
 ##### 1. Output Window
 
-![picture alt](https://github.com/update-ankur/Monitoring-Social-Distancing/blob/main/extras/Output.png)
+![picture alt](https://github.com/vaishnavireddy2001/Monitoring--Social-Distance-/blob/main/Output.png)
 
 
 ##### 2. Monitoring Social Distancing
 
 
-![picture alt](https://github.com/update-ankur/Monitoring-Social-Distancing/blob/main/extras/Monitor.png)
+![picture alt](https://github.com/vaishnavireddy2001/Monitoring--Social-Distance-/blob/main/Monitor.png)
 
 
 ### Requirements
